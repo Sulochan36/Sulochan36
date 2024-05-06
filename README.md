@@ -7,7 +7,15 @@
 - 🔭 I’m currently working on **ReactJS**
 - 👯 I’m looking to start contributing **in open source projects**
 - 🌱 I’m currently learning **NodeJS,MongoDB**
--I believe in the power of learning from real-world projects, whether it's through contributing to open-source repositories or studying tutorial projects directly from their repositories.
+- 🌍 I believe in the power of learning from real-world projects, whether it's through contributing to open-source repositories or studying tutorial projects directly from their repositories.
+
+
+
+
+
+
+
+
 
 
 <div> <a href="https://www.linkedin.com/in/Sulochan Mahajan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
