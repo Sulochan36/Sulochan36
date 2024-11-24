@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sulochan36&theme=onedark" alt="Sulochan36" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on *MERN Stack**
 - 👯 I’m looking to start contributing **in open source projects**
 - 🌱 I’m currently learning **NodeJS,MongoDB**
  
