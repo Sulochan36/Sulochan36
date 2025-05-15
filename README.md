@@ -6,9 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sulochan36&theme=onedark" alt="Sulochan36" /></a> </p>
 
-- 🔭 I’m currently working on *MERN Stack**
-- 👯 I’m looking to start contributing **in open source projects**
-- 🌱 I’m currently learning **NodeJS,MongoDB**
+🔭 I’ve built a few projects with the MERN stack and am continuously enhancing my skills  
+💻 I’ve also built a couple of projects using Next.js and enjoy working on modern web apps  
+🌱 Looking forward to learning Docker, Kubernetes, and diving into DevOps  
+👯 I’m interested in contributing to open source projects and real-world collaborations  
+🎨 Passionate about frontend development and creating great user experiences  
+🚀 Passionate about full-stack web development and continuous learning  
+
  
 
 
