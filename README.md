@@ -30,6 +30,24 @@
 <p align="left">
 <a href="https://linkedin.com/in/Sulochan Mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Sulochan Mahajan" height="30" width="40" /></a></p>
 
+
+
+## 💼 Projects
+
+🚀 **[QuickTalk](https://github.com/Sulochan36/QuickTalk)**  
+Real-time chat app using **Socket.io**, Express, and React for live conversations.  
+🌐 Live demo link : https://quicktalk-g98k.onrender.com/
+
+🎯 **[TargetBooster](https://github.com/Sulochan36/TargetBooster)**  
+A productivity dashboard to track goals, habits, and daily tasks with charts and analytics.  
+🌐 _Coming soon: Updated Live demo link_
+
+🌍 **[My Portfolio](https://github.com/Sulochan36/My-Portfolio)**  
+Personal website built with React + Tailwind. Showcases my work, resume, and contact info.  
+🔗 [Live Site](https://sulochan-mahajan.vercel.app/) _(replace with your live URL)_
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
