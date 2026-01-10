@@ -40,7 +40,7 @@ Real-time chat app using **Socket.io**, Express, and React for live conversation
 
 🎯 **[TargetBooster](https://github.com/Sulochan36/TargetBooster)**  
 A productivity dashboard to track goals, habits, and daily tasks with charts and analytics.  
-🌐 Coming soon: Updated Live demo link
+🌐 [Live Site](https://taskilo-wheat.vercel.app/)
 
 🌍 **[My Portfolio](https://github.com/Sulochan36/My-Portfolio)**  
 Personal website built with React + Tailwind. Showcases my work, resume, and contact info.  
