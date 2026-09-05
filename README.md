@@ -6,12 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sulochan36&theme=onedark" alt="Sulochan36" /></a> </p>
 
-🔭 I’ve built a few projects with the MERN stack and am continuously enhancing my skills  
-💻 I’ve also built a couple of projects using Next.js and enjoy working on modern web apps  
-🌱 Looking forward to learning Docker, Kubernetes, and diving into DevOps  
-👯 I’m interested in contributing to open source projects and real-world collaborations  
-🎨 Passionate about frontend development and creating great user experiences  
-🚀 Passionate about full-stack web development and continuous learning  
+🔭 Building full-stack web applications with React, Next.js, Node.js, and TypeScript
+🤖 Exploring Generative AI, RAG pipelines, LLM applications, and AI-powered developer tools
+💻 Experienced with MERN, REST APIs, real-time applications, authentication, and modern web technologies
+🎨 Passionate about frontend development, clean UI/UX, and creating great user experiences
+⚙️ Currently diving deeper into backend systems, Docker, databases, and system design
+🌱 Always learning, building, and sharing my journey through projects and open source
+
 
  
 
@@ -34,17 +35,24 @@
 
 ## 💼 Projects
 
-🚀 **[QuickTalk](https://github.com/Sulochan36/QuickTalk)**  
-Real-time chat app using **Socket.io**, Express, and React for live conversations.  
-🌐 Live demo link : https://quicktalk-g98k.onrender.com/
+📊 **[PollVibes](https://github.com/Sulochan36/PollVibes)**
+Full-stack polling platform built with **MERN, Clerk, and REST APIs**, featuring poll creation, anonymous/authenticated voting, expiry, sharing, and analytics.
+🌐 **[Live Demo](https://pollvibes.sulochanmahajan.com/)**
 
-🎯 **[TargetBooster](https://github.com/Sulochan36/TargetBooster)**  
-A productivity dashboard to track goals, habits, and daily tasks with charts and analytics.  
-🌐 [Live Site](https://taskilo-wheat.vercel.app/)
+📝 **[JotCanva](https://github.com/Sulochan36/JotCanva)**
+Modern notes application built with **Next.js, TypeScript, Clerk, Server Actions, and MongoDB**, with workspaces, tags, favorites, archive, and shareable notes.
+🌐 **[Live Demo](https://jotcanva.sulochanmahajan.com/)**
 
-🌍 **[My Portfolio](https://github.com/Sulochan36/My-Portfolio)**  
-Personal website built with React + Tailwind. Showcases my work, resume, and contact info.  
-🔗 [Live Site](https://sulochan-mahajan.vercel.app/) 
+🤖 **[Advanced RAG Pipeline](https://github.com/Sulochan36/Advanced-RAG-Patterns)**
+Backend-focused **RAG pipeline** built with **Node.js, Express, Qdrant, Redis, and LLMs**, exploring query rewriting, subqueries, HyDE, reranking, and retrieval optimization.
+
+⚙️ **[OpenSys](https://github.com/Sulochan36/OpenSys)**
+Linux system monitoring tool built with **Node.js**, exploring processes, system resources, and low-level OS concepts through a developer-friendly CLI.
+
+🌍 **[My Portfolio](https://github.com/Sulochan36/My-Portfolio)**
+Personal portfolio built with **NextJS and Tailwind CSS**, showcasing my projects, skills, and experience.
+🔗 **[Live Site](https://sulochanmahajan.com/)**
+
 
 
 
