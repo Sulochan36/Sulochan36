@@ -6,12 +6,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sulochan36&theme=onedark" alt="Sulochan36" /></a> </p>
 
-🔭 Building full-stack web applications with React, Next.js, Node.js, and TypeScript
-🤖 Exploring Generative AI, RAG pipelines, LLM applications, and AI-powered developer tools
-💻 Experienced with MERN, REST APIs, real-time applications, authentication, and modern web technologies
-🎨 Passionate about frontend development, clean UI/UX, and creating great user experiences
-⚙️ Currently diving deeper into backend systems, Docker, databases, and system design
-🌱 Always learning, building, and sharing my journey through projects and open source
+- 🔭 Building full-stack web applications with React, Next.js, Node.js, and TypeScript
+- 🤖 Exploring Generative AI, RAG pipelines, LLM applications, and AI-powered developer tools
+- 💻 Experienced with MERN, REST APIs, real-time applications, authentication, and modern web technologies
+- 🎨 Passionate about frontend development, clean UI/UX, and creating great user experiences
+- ⚙️ Currently diving deeper into backend systems, Docker, databases, and system design
+- 🌱 Always learning, building, and sharing my journey through projects and open source
 
 
  
